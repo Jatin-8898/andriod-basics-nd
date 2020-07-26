@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="the_cake_shop">The Cake Shop</string>
+    <string name="contact_on_1_4290329093">Contact on : +1 4290329093</string>
+    <string name="email_cakeshop_gmail_com">Email : cakeshop@gmail.com</string>
+    <string name="welcome_to_the_cake_shop">Welcome to the Cake Shop</string>
+    <string name="working_hours_7am_to_9pm">Working Hours : 7am to 9pm</string>
+    <string name="cake_image">Cake image</string>
+</resources>
