@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="submit">Submit</string>
+    <string name="quiz_time">Computer Science Quiz</string>
+
+    <string name="question_1">What does the MP stand for in MP3?</string>
+    <string name="question_1_answer_1">Moving Picture</string>
+    <string name="question_1_answer_2">Music Player</string>
+    <string name="question_1_answer_3">Motion Player</string>
+    <string name="question_1_answer_4">Micro Point</string>
+
+    <string name="question_2">What amount of bits commonly equals one byte?</string>
+
+    <string name="question_3">Which of the following are valid data types in Java?</string>
+    <string name="question_3_answer_1">int</string>
+    <string name="question_3_answer_2">short</string>
+    <string name="question_3_answer_3">meter</string>
+    <string name="question_3_answer_4">cut</string>
+
+    <string name="question_4">Which programming language was developed by Sun Micro Systems in 1995?</string>
+    <string name="question_4_answer_1">Java</string>
+    <string name="question_4_answer_2">Python</string>
+    <string name="question_4_answer_3">C++</string>
+    <string name="question_4_answer_4">JS</string>
+
+</resources>
