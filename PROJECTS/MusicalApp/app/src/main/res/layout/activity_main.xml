@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:padding="20dp"
+            android:text="@string/discover"
+            android:textSize="24sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/rock_playlist"
+                android:layout_width="190dp"
+                android:layout_height="188dp"
+                android:layout_marginStart="10dp"
+                android:contentDescription="@string/rock_playlist"
+                app:srcCompat="@drawable/rock" />
+
+            <ImageButton
+                android:id="@+id/rap_playlist"
+                android:layout_width="178dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="10dp"
+                android:contentDescription="@string/rap_playlist"
+                app:srcCompat="@drawable/rap" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/recommended_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:padding="20dp"
+            android:text="@string/recommended"
+            android:textSize="22sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/pop_playlist"
+                android:layout_width="240dp"
+                android:layout_height="200dp"
+                android:layout_marginStart="10dp"
+                android:contentDescription="@string/pop_playlist"
+                app:srcCompat="@drawable/pop" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

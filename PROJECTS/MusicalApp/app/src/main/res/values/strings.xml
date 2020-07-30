@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Musical App</string>
+    <string name="discover">Discover</string>
+    <string name="pop_playlist">Pop Playlist</string>
+    <string name="rap_playlist">Rap Playlist</string>
+    <string name="rock_playlist">Rock Playlist</string>
+    <string name="recommended">Recommended</string>
+    <string name="title_activity_rock_playlist">RockPlaylist</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="song_image">Song Image</string>
+    <string name="main_big_image">Main Big Image</string>
+    <string name="_50_tracks">50 Tracks</string>
+    <string name="_2h_55m_21s">2hr 55min 21sec</string>
+    <string name="shuffle_button">Shuffle button</string>
+    <string name="popular">Playlist</string>
+</resources>
