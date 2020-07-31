@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hq_title">HQ</string>
+    <string name="parks_title">Parks</string>
+    <string name="events_title">Events</string>
+    <string name="restaurants_title">Restaurant</string>
+    <string name="place_image">Place Image</string>
+
+
+    <!--HQ Places-->
+    <string name="hq_place_1">Google</string>
+    <string name="hq_desc_1">Google LLC is an American multinational technology company that specializes in Internet-related services and products</string>
+    <string name="hq_location_1">Google Building 40, 1600 Amphitheatre</string>
+    <string name="hq_number_1">+1 7463784728</string>
+
+    <string name="hq_place_2">LinkedIn</string>
+    <string name="hq_desc_2">LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002</string>
+    <string name="hq_location_2">1000 W Maude Ave, Sunnyvale</string>
+    <string name="hq_number_2">+1 4829839489</string>
+
+    <string name="hq_place_3">Coursera</string>
+    <string name="hq_desc_3">Coursera is a relatively young company. It was founded only in 2012. This emerging company loves to hire graduates from Santa Clara University,</string>
+    <string name="hq_location_3">381 E Evelyn Ave, Mountain View</string>
+    <string name="hq_number_3">+1 6509639884</string>
+
+    <string name="hq_place_4">Mozilla</string>
+    <string name="hq_desc_4" formatted="false">Mozilla is a free software community founded in 1998 by members of Netscape</string>
+    <string name="hq_location_4">331 E Evelyn Ave, Mountain View</string>
+    <string name="hq_number_4">+1 6509030800</string>
+
+
+    <!--Park Places-->
+    <string name="park_place_1">Cuesta Park</string>
+    <string name="park_desc_1">The park of my youth. From coming here to play as a child, sneaking away from a football game at St Francis</string>
+    <string name="park_location_1">615 Cuesta Dr Mountain View, CA 94040</string>
+    <string name="park_number_1">+1 6509030800</string>
+
+    <string name="park_place_2">Sylvan Park</string>
+    <string name="park_desc_2">This is a nice neighborhood park with a lot of grass and shade. I love the tennis courts here.</string>
+    <string name="park_location_2">Sylvan Ave &amp; DeVoto St Mountain View</string>
+    <string name="park_number_2">+1 6509030800</string>
+
+    <string name="park_place_3">Shoup Park</string>
+    <string name="park_desc_3">I love how beautiful the scenery is at this park. It is completely hidden from the street, so you actually can\'t see it</string>
+    <string name="park_location_3">400 University Ave Los Altos, CA 94023</string>
+    <string name="park_number_3">+1 6509030800</string>
+
+    <string name="park_place_4">Ortega Park</string>
+    <string name="park_desc_4">It\'s a specious park with lots of facilities for all ages. There\'s two playgrounds and some swings.</string>
+    <string name="park_location_4">636 Harrow Way Sunnyvale, CA 94087</string>
+    <string name="park_number_4">+1 6509030800</string>
+
+    <!--Restaurants Places-->
+    <string name="res_place_1">Cascal</string>
+    <string name="res_desc_1">Loved the ambiance, food and excellent service. My boyfriend surprised me with this lovely place. They had music that night, which we enjoyed! The food was delicious, desert was awesome! A dress-up kind of place which is rare. Loved it!.</string>
+    <string name="res_location_1">400 Castro St, Mountain View, CA 94041–2008</string>
+    <string name="res_number_1">+1 6509409500</string>
+
+    <string name="res_place_2">Vive Sol</string>
+    <string name="res_desc_2">Went there on a business trip. Three different dips/salsa with nachos as a free intro snack, each of the dips having their own character and tasting great. Had the guacamole, was very fresh and tasted great. Had the chicken in a sauce with cocoa beans.</string>
+    <string name="res_location_2">2020 W El Camino Real, Mountain View, CA 94040–2104</string>
+    <string name="res_number_2">+1 6509409500</string>
+
+    <string name="res_place_3">Oren\'s Hummus</string>
+    <string name="res_desc_3">You can\'t beat the food at this location. The service is good.. good place for take out as well. Parking can be a pain sometimes if you are looking something closer to this restaurant.</string>
+    <string name="res_location_3">126 Castro St, Mountain View, CA 94041–1202</string>
+    <string name="res_number_3">+1 6509409500</string>
+
+    <string name="res_place_4">Xanh Restaurant</string>
+    <string name="res_desc_4">I love going to xanhs for their happy hour. The selection of food is great and I usually want to try one of everything in their menu. My fav is the garlic noodles, spring rolls, and kobi beef dish..</string>
+    <string name="res_location_4">110 Castro St, Mountain View, CA 94041–1202</string>
+    <string name="res_number_4">+1 6509409500</string>
+
+    <!--Events Places-->
+    <string name="events_place_1">Computer History Museum</string>
+    <string name="events_desc_1">Computer History Museum is a public benefit organization that preserves artefacts from computing history.</string>
+    <string name="events_location_1">1401 N Shoreline Blvd, Mountain View</string>
+    <string name="events_number_1">+1 6508101010</string>
+
+    <string name="events_place_2">Shoreline Amphitheatre</string>
+    <string name="events_desc_2">Shoreline Amphitheatre is an outdoor amphitheater.The venue has a capacity of 22,500, with 6,500 reserved seats and 16,000 general admission on the lawn.</string>
+    <string name="events_location_2">1 Amphitheatre Pkwy, Mountain View, CA 94043</string>
+    <string name="events_number_2">+1 6509409500</string>
+
+    <string name="events_place_3">The NASA Gift Shop</string>
+    <string name="events_desc_3">NASA Gift Shop in Silicon Valley is a visitor center at the entrance of NASA\'s Ames Research Center in Moffett Field, California.</string>
+    <string name="events_location_3">Moffett Blvd, Mountain View, CA 94043</string>
+    <string name="events_number_3">+1 6506409500</string>
+
+    <string name="events_place_4">Palo Alto Junior Museum and Zoo</string>
+    <string name="events_desc_4">Palo Alto Junior Museum and Zoo is located in Palo Alto, California and part of the City of Palo Alto\'s Community Services Department. It was founded in 1934.</string>
+    <string name="events_location_4">4050 Middlefield Rd, Palo Alto, CA 94303</string>
+    <string name="events_number_4">+1 6509409500</string>
+</resources>
