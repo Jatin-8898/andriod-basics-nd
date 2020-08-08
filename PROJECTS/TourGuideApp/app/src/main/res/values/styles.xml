@@ -11,6 +11,8 @@
         <item name="android:background">@color/colorPrimary</item>
         <item name="tabMode">fixed</item>
         <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabTextColor">@android:color/darker_gray</item>
+        <item name="tabPadding">5dp</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
