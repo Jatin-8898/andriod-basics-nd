@@ -14,19 +14,19 @@
 
 
 ## Football ScoreKeeper App
-<img src="https://user-images.githubusercontent.com/34777376/89712039-dc7c7380-d9ab-11ea-960b-a9d5c59f616a.gif" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/34777376/89712039-dc7c7380-d9ab-11ea-960b-a9d5c59f616a.gif" width="300" height="600">
 
 
 ## Quiz App
-<img src="https://user-images.githubusercontent.com/34777376/89712042-e4d4ae80-d9ab-11ea-9a9a-40fef129e5d8.gif" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/34777376/89712042-e4d4ae80-d9ab-11ea-9a9a-40fef129e5d8.gif" width="300" height="600">
 
 
 ## Musical App
-<img src="https://user-images.githubusercontent.com/34777376/89712036-d5556580-d9ab-11ea-83bc-b10df2ea0b05.gif" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/34777376/89712036-d5556580-d9ab-11ea-83bc-b10df2ea0b05.gif" width="300" height="600">
 
 
 ## Tour Guide App
-<img src="" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/34777376/89712705-22d3d180-d9b0-11ea-9612-32804e5e2abb.gif" width="300" height="600">
 
 
 ## News App
